@@ -36,6 +36,6 @@ Feedback Pengguna
 Pengguna dapat memberikan masukan atau saran terkait aplikasi.
 
 Dashboard Admin
-Admin dapat mengelola data pengguna, soal kuis, hasil kuis, dan feedback.
+Admin dapat mengelola data User, Data Quiz, Data hasil kuis, Data Tambah Quiz dan feedback.
 
 
